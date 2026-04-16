@@ -1,4 +1,4 @@
-## ✨Task Master (Flask Todo App)
+## Task Master (Flask Todo App)
 A simple and modern Todo Web Application built using **Flask** and **SQLite** with a clean UI.
 
 ---
@@ -38,27 +38,27 @@ Todo_Flask/
 ---
 
 ### How To Run
-1. Install `virtualenv`:
+1️⃣ Install `virtualenv`:
 ```
 $ pip install virtualenv
 ```
 
-2. Open a terminal in the project root directory and run:
+2️⃣ Open a terminal in the project root directory and run:
 ```
 $ virtualenv env
 ```
 
-3. Then run the command:
+3️⃣ Then run the command:
 ```
 $ .\env\Scripts\activate
 ```
 
-4. Then install the dependencies:
+4️⃣ Then install the dependencies:
 ```
 $ (env) pip install -r requirements.txt
 ```
 
-5. Finally start the web server:
+5️⃣ Finally start the web server:
 ```
 $ (env) python app.py
 ```
